@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android Projects-ECommerce-App-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Android Projects-ECommerce-App-Android.iml" group="ECommerce-App-Android" />
+      <module fileurl="file://$PROJECT_DIR$/ECommerce-App-Android.iml" filepath="$PROJECT_DIR$/ECommerce-App-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ECommerce-App-Android-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ECommerce-App-Android-app.iml" group="ECommerce-App-Android/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
